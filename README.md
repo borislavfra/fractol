@@ -3,10 +3,13 @@
 This project allows to explore various types of fractals.
   
 # Compiling
+
  ```minilibx``` is required. <b>(Only macOS is supported)</b>
+ 
 Run ```make```
 
 # Usage
+
 Run ```./fractol [name]```
 
 Supported fractals:
